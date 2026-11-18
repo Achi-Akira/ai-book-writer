@@ -1,0 +1,6 @@
+{
+  "name": "ai-book-writer",
+  "version": "1.0.0",
+  "description": "Write complete multi-chapter books with Claude using a story planner, world builder, outline creator, writer, editor and memory keeper workflow, based on the AutoGen Book Generator.",
+  "keywords": ["writing", "book", "novel", "fiction", "outline", "story", "autogen"]
+}
